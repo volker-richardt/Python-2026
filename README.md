@@ -49,7 +49,13 @@
     <td><a href="PDF/Print.pdf">Print</a></td>
     <td></td>
     <td></td>
-  </tr><tr>
+  </tr>
+  <tr>
+    <td><a href="PDF/Datentypen-Sequenzen.pdf">Datentypen-Sequenzen</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td colspan="3"><strong style="font-size:125%;">Kontrollstrukturen</strong></td>
   </tr>
   <tr>
@@ -65,6 +71,11 @@
    <tr>
     <td><a href="PDF/F-Strings.pdf">F-Strings</a></td>
     <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="PDF/Übung-Raten_einer_Zahl.pdf">Übung: Raten_einer_Zahl<a></td>
     <td></td>
   </tr>
 </table>

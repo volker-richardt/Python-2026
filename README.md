@@ -82,4 +82,5 @@
 
 
 
-
+Übung Sternchen - for
+generell Vorbedingungen in pdf-Übungen

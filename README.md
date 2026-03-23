@@ -33,9 +33,7 @@
    
   </tr>
   <tr>
-    <td colspan="2"><strong style="font-size:125%;">Datentypen und Variablen</strong><
-Übung Sternchen - for
-generell Vorbedingungen in pdf-Übungen/td>
+    <td colspan="2"><strong style="font-size:125%;">Datentypen und Variablen</strong></td>
   </tr>
   <tr>
     <td><a href="PDF/Datentypen.pdf">Datentypen</a></td>

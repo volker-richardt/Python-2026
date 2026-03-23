@@ -59,6 +59,11 @@
     <td colspan="3"><strong style="font-size:125%;">Kontrollstrukturen</strong></td>
   </tr>
   <tr>
+    <td><a href="PDF/Input.pdf">Input</a></td>
+    <td></td>
+   
+  </tr>
+  <tr>
     <td><a href="PDF/Kontrollstrukturen-Fallunterscheidungen.pdf">Fallunterscheidungen</a></td>
     <td></td>
    
@@ -73,10 +78,9 @@
     <td></td>
     
   </tr>
-  <tr>
-    <td></td>
+  <tr>   
     <td><a href="PDF/Übung-Raten_einer_Zahl.pdf">Übung: Raten_einer_Zahl<a></td>
-    
+     <td></td>
   </tr>
 </table>
 
